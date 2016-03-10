@@ -52,14 +52,16 @@ Photoshop, Illustrator, InDesign, Fireworks, HTML/CSS,
 Word, PowerPoint, Excel
 
 **Project management**
-Research, implementation, testing and evaluation
-Budgeting and forecasting
-JIRA, Agile and Float
+
+* Research, implementation, testing and evaluation
+* Budgeting and forecasting
+* JIRA, Agile and Float
 
 **Leadership**
-Managing freelancers and external creatives
-Mentoring junior team members
-Board member for Abcam Social Committee
+
+* Managing freelancers and external creatives
+* Mentoring junior team members
+* Board member for Abcam Social Committee
 
 <br />
 
